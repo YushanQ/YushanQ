@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yushan</h1>
 <h3 align="center">I am interested in system in distribution, machine learning and big data</h3>
 
-- 🌱 I’m currently learning **6.824 Distributed Systems**
-
-- 👨‍💻 All of my projects are available at [yushanq.github.io/portfolio/](yushanq.github.io/portfolio/)
+- 🌱 I’m currently learning computer systems (honestly immerse myself in the ocean of ML 
 
 - 📫 How to reach me **qqinys@gmail.com**
 
